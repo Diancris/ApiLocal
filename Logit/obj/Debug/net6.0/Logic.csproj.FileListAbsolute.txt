@@ -1,0 +1,57 @@
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Logic.runtimeconfig.json
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Data.dll
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Entities.dll
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Data.pdb
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\bin\Debug\net6.0\Entities.pdb
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\Logic.genruntimeconfig.cache
+C:\Users\Diana\Desktop\2023ProyectoApi\Api\Logit\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Logic.runtimeconfig.json
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Data.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Entities.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Data.pdb
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\bin\Debug\net6.0\Entities.pdb
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\Logic.genruntimeconfig.cache
+C:\Users\Diana\Desktop\API LIBRERIA\Api-master\Logit\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Logic.deps.json
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Logic.runtimeconfig.json
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Data.dll
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Entities.dll
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Data.pdb
+C:\Users\Diana\Desktop\Api-master\Logit\bin\Debug\net6.0\Entities.pdb
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.csproj.CopyComplete
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.dll
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\refint\Logic.dll
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.pdb
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\Logic.genruntimeconfig.cache
+C:\Users\Diana\Desktop\Api-master\Logit\obj\Debug\net6.0\ref\Logic.dll
